@@ -1,3 +1,4 @@
+//Inicio Desafio Multiplicación:
 // Función con la que se verifica si el rango es correcto.
 let ciclo = function () {
     // Rango con el que se trabajarán las tablas.
