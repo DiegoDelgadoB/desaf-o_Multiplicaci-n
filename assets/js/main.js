@@ -1,8 +1,3 @@
-var numeroUsuario = prompt("Ingrese un número entre 1 y 20 para realizar la operación matemática.")
-if (numeroUsuario > 20) {
-
-}
-
 // Función con la que se verifica si el rango es correcto.
 let ciclo = function () {
     // Rango con el que se trabajarán las tablas.
